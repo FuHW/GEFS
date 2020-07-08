@@ -3,7 +3,7 @@
 set Bfolder=build
 
 if not exist $Bfolder% (
-	md %b_folder%
+	md %Bfolder%
 )
 
 cd %Bfolder%
